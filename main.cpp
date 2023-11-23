@@ -5,10 +5,10 @@
 
 using namespace std;
 
-char HOST[]="localhost";
-char USER[]="root";
-char PASS[]="";
-char DB[]="kasir";
+char HOST[] = "localhost";
+char USER[] = "root";
+char PASS[] = "";
+char DB[] = "dana_osis";
 
 MYSQL *obj;
 MYSQL *conection;
