@@ -1,7 +1,7 @@
 # Project: Project_dana_osis
 # Compiler: Default GCC compiler
 # Compiler Type: MingW 3
-# Makefile created by wxDev-C++ IDE 7.4.2.569 on 23/11/23 08:37
+# Makefile created by wxDev-C++ IDE 7.4.2.569 on 23/11/23 08:55
 
 WXLIBNAME = wxmsw29u
 CPP       = g++.exe
@@ -10,8 +10,8 @@ WINDRES   = "windres.exe"
 OBJ       = Objects/MingW/main.o
 LINKOBJ   = "Objects/MingW/main.o"
 LIBS      = -L"C:/Program Files (x86)/Dev-Cpp/lib/wx/gcc_lib" -L"C:/Program Files (x86)/Dev-Cpp/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW32/lib" -lmysql  
-INCS      = -I"C:/Program Files (x86)/Dev-Cpp/MinGW32/include" -I"D:/projectwxdev/dana_osis/mysql_lib/include"
-CXXINCS   = -I"C:/Program Files (x86)/Dev-Cpp/MinGW32/include" -I"C:/Program Files (x86)/Dev-Cpp/" -I"C:/Program Files (x86)/Dev-Cpp/include/common" -I"D:/projectwxdev/dana_osis/mysql_lib/include"
+INCS      = -I"C:/Program Files (x86)/Dev-Cpp/MinGW32/include" -I"D:/dana_osis/mysql_lib/include"
+CXXINCS   = -I"C:/Program Files (x86)/Dev-Cpp/MinGW32/include" -I"C:/Program Files (x86)/Dev-Cpp/" -I"C:/Program Files (x86)/Dev-Cpp/include/common" -I"D:/dana_osis/mysql_lib/include"
 RCINCS    = --include-dir "C:/PROGRA~2/Dev-Cpp/include/common"
 BIN       = Output/MingW/Project_dana_osis.exe
 DEFINES   = 

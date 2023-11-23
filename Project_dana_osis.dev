@@ -38,12 +38,13 @@ ProductName=
 ProductVersion=
 AutoIncBuildNrOnRebuild=0
 AutoIncBuildNrOnCompile=0
+UnitCount=1
 
 [Profile1]
 ProfileName=MingW gcc
 Type=1
 ObjFiles=
-Includes=D:\projectwxdev\dana_osis\mysql_lib\include
+Includes=D:\dana_osis\mysql_lib\include
 Libs=
 ResourceIncludes=
 MakeIncludes=
